@@ -8,7 +8,7 @@ Reverses strings of any length and character set.
 
 # Example
 
-Input: Hello, world!
+Input: Hello, world
 
-Output: !dlrow ,olleH
+Output: dlrow ,olleH
 
