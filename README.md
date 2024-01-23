@@ -6,11 +6,6 @@ This program reverses the order of characters in a given string. It accepts a st
 
 Reverses strings of any length and character set.
 
-Can be implemented in various programming languages (specify language in this README).
-
-Efficient algorithms for string reversal.
-
-
 # Example
 
 Input: Hello, world!
