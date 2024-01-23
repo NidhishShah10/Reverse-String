@@ -1,18 +1,19 @@
-## Getting Started
+# Reverse String Program
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+This program reverses the order of characters in a given string. It accepts a string as input and outputs the reversed string.
 
-## Folder Structure
+# Features
 
-The workspace contains two folders by default, where:
+Reverses strings of any length and character set.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Can be implemented in various programming languages (specify language in this README).
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+Efficient algorithms for string reversal.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
 
-## Dependency Management
+# Example
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Input: Hello, world!
+
+Output: !dlrow ,olleH
+
